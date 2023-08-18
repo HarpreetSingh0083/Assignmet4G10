@@ -1,0 +1,3 @@
+used the restcountries api and followed their documentation .
+
+https://restcountries.com/ 
